@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="backarrow">backarrow</string>
+    <string name="banner">Banner</string>
+    <string name="team_informatiion">Team Informatiion</string>
+    <string name="add_project">Add Project +</string>
+    <string name="textview">TextView</string>
+    <string name="updates_your_round_will_start_in_some_time_please_be_more_details">Updates*: Your round will start in some time, please be more details</string>
+    <string name="designpals">DesignPals</string>
+    <string name="team">Team</string>
+    <string name="harsh_singhal">Harsh Singhal</string>
+    <string name="mathew_john">Mathew John</string>
+    <string name="host">(Host)</string>
+    <string name="leave_team">Leave Team</string>
+</resources>
